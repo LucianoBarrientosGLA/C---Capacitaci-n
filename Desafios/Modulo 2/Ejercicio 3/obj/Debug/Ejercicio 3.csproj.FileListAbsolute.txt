@@ -1,0 +1,8 @@
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\obj\Debug\Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\bin\Debug\Desafío 3.exe.config
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\bin\Debug\Desafío 3.exe
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\bin\Debug\Desafío 3.pdb
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\obj\Debug\Desafío 3.exe
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Modulo 1 - Desafios\Desafio 2\Desafío 3\obj\Debug\Desafío 3.pdb

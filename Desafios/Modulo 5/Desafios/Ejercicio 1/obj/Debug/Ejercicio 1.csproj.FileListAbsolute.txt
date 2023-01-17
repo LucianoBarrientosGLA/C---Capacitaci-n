@@ -1,0 +1,11 @@
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.AssemblyReference.cache
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\Lucho\Desktop\Andreani\Entregas Curso\3. C#\Desafios\Modulo 5\Desafios\Ejercicio 1\obj\Debug\Ejercicio 1.pdb

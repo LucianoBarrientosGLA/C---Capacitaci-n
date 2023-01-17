@@ -1,0 +1,8 @@
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\bin\Debug\Ejercicio 3.exe.config
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\bin\Debug\Ejercicio 3.exe
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\bin\Debug\Ejercicio 3.pdb
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.AssemblyReference.cache
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\obj\Debug\Ejercicio 3.csproj.CoreCompileInputs.cache
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\obj\Debug\Ejercicio 3.exe
+C:\Users\Lucho\Desktop\Andreani\Contenido Cursos Andreani\C#\Modulo 1 - Desafios\Desafio 1\Ejercicio 3\obj\Debug\Ejercicio 3.pdb
